@@ -1,13 +1,13 @@
-# ###############################################################
-# Author: Efe Can Batur                                         #
-#                                                               #
-# Based on Sharma & Rao's 1976 paper:                           #
-# Stationary solutions and their characteristic exponents       #
-# in the restricted three-body problem when the more            #
-# massive primary is an oblate spheroid                         #
-#                                                               #
-# Calculates Lagrange points' coordinates and shifts.           #
-# ###############################################################
+################################################################
+# Author: Efe Can Batur                                        #
+#                                                              #
+# Based on Sharma & Rao's 1976 paper:                          #
+# Stationary solutions and their characteristic exponents      #
+# in the restricted three-body problem when the more           #
+# massive primary is an oblate spheroid                        #
+#                                                              #
+# Calculates Lagrange points' coordinates and shifts.          #
+################################################################
 
 import numpy as np
 import matplotlib.pyplot as plt
